@@ -1,4 +1,5 @@
 # Phishing para captura de senhas do Linkedin
+Apesar de o exemplo prático utilizar o site de login do Facebook, no momento o mesmo está indisponível para clonar. Desta forma utilizamos o Linkedin, seguindo o mesmo fluxo.
 
 ## Ferramentas
 - Kali Linux
@@ -14,8 +15,8 @@
 - **Obtendo o endereço da máquina:** `ifconfig`
 - **URL para clone:** [(http://www.linkedin.com/login)]
 
-## Resultados
+## Resultado
 
-Printar a tela com os dados de usuário e senha:
+Print da tela com os dados de usuário e senha:
 
 ![Desafio](https://github.com/user-attachments/assets/0bb0fd43-15cb-4e70-9741-b2de3fa17d4a)
